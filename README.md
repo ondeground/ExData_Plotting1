@@ -1,7 +1,7 @@
 ## UPDATE
 Four scripts where added to reproduce the graphs for the Course project 1. The scripts included code for downloading the data that is used to create the plots. The scripts where written on an iMac. This is important because in the download.file function I have to use the paramete ...,method="curl". If you test the script on a computer running with Windows OS, please edit the code and remove the parameter method="curl" from the download.file function.
 
-Otherwise, just download and source the functions (plot1.R, plot2.R, plot3.R,plot4.R) to reproduce each plot on screen and in a file.
+Otherwise, just download and source the functions (plot1.R, plot2.R, plot3.R, plot4.R) to reproduce each plot on screen and in a file.
 
 ## Introduction
 
